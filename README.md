@@ -40,13 +40,13 @@
 
 ## Themes
 
-| Turf Green (Default) ⚽ | Stadium Dark 🌑 |
+| Turf Green (Default)  | Stadium Dark  |
 |-------------------------|-----------------|
 | Greens, white lines     | Deep greens, gold accents |
 
 ## Credits
 
-Made with ⚽ by **Sameeha**.
+Made with  by **Sameeha**.
 
 ---
 *Note: This project uses custom CSS and emojis; no trademarked assets are included.*
